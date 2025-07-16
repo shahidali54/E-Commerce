@@ -1,2 +1,2 @@
-# E-Commerce website nextjs
+# E-Commerce website nextjs Figma
  
