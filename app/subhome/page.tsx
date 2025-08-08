@@ -140,7 +140,6 @@ const SubHome = () => {
           </Link>
         ))}
       </div>
-
       <h2 className={styles.heading}>Categories</h2>
       <div className={styles.categoryGrid}>
         {categories.map((category, index) => (
